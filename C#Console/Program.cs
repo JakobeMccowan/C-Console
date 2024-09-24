@@ -23,6 +23,9 @@ class Program
         //Return1.CheckEvenOdd(5);
         //Character.Players();
         //Arrays.Array1(args);
+        //List.Eaiou(args);
+        //Dictonary1.Dict1(args);
+        //Dictonary1.Dict2(args);
     }
 
 }

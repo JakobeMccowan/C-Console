@@ -1,6 +1,6 @@
 
 
-    public class Car
+    /*public class Car
     {
         public string brand;
         public int speed;
@@ -109,3 +109,4 @@ Animal myDog = new Dog();
 
 // Animal myDog = new Dog();
 // myDog.MakeSound(); //Output: Bark
+*/
