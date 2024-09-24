@@ -1,4 +1,18 @@
-﻿namespace C_console;
+﻿using MyCalculatorApp;
+
+class Gram
+{
+    static void TheMain()
+    {
+        Calculator calculator = new Calculator();
+
+        Console.WriteLine("Add(int, int): " + calculator.Add(3, 4));
+        Console.WriteLine("Add(int, int, int): " + calculator.Add(3, 7, 21));
+        Console.WriteLine("Add(double, double): " + calculator.Add(4.8, 5.7));
+        
+    }
+}
+
 
 class Program    
 {
